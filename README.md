@@ -11,7 +11,7 @@ div align="center">
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=HELLO+IM+KING+VAJIRA+WHATSAPP+BOT)](https://git.io/typing-svg)
 
    <p align="center">
-<a href="https://github.com/vajirabot1">
+<a href="https://github.com/faheemhackerboy">
     <img src="https://telegra.ph/file/fb7993e24f7ecdaecbed5.jpg"  width="700px">
   </a>
 
@@ -91,4 +91,4 @@ VAJIRA whatsapp bot is,
 
 
 
-[![Button name](https://icons8.com/icon/9a46bTk3awwI/youtube)](https://github.com/vajirabot1/DARK-VAJIRA)
+[![Button name](https://icons8.com/icon/9a46bTk3awwI/youtube)](https://github.com/faheemhackerboy/Faheem-kking-md)
